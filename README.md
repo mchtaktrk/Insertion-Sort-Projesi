@@ -1,16 +1,25 @@
 # Insertion-Sort-Projesi
 Patika.dev -> Veri Yapıları ve Algoritmalar Eğitimi Bitirme Projesi 
 <hr />
-## Proje 1
+Proje 1
 
 [22,27,16,2,18,6] -> Insertion Sort
 
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-Big-O gösterimini yazınız.
-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+- Big-O gösterimini yazınız.
+- Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+- Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 <hr>
-<h2>Çözüm</h2>
+Çözüm
+
+1. [22,27,16,2,18,6]
+  > [22,27] karşılaştırılır. Küçük olan sağa alınır. Burada küçük sayı sağda olduğu için değişiklik yok
+2. [22,16,27,2,18,6]
+  > [27,16] karşılaştırıldı. Küçük olan sola alındı.
+3. 
+4. 
+5. 
+
