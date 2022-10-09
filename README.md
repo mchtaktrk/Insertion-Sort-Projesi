@@ -15,11 +15,10 @@ Proje 1
 <hr>
 Çözüm
 
-1. [22,27,16,2,18,6]
+[22,27,16,2,18,6]
   > [22,27] karşılaştırılır. Küçük olan sağa alınır. Burada küçük sayı sağda olduğu için değişiklik yok
-2. [22,16,27,2,18,6]
+[22,16,27,2,18,6]
   > [27,16] karşılaştırıldı. Küçük olan sola alındı.
-3. 
-4. 
-5. 
+[22,16,27,2,18,6]
+
 
